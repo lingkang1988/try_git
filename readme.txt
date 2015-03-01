@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git track changes.
 Creating a new branch is quick and simple.
 Do not use fast forward merge.
+test change 1

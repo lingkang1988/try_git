@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Do not use fast forward merge.
 change 1
 change 2
+change 3

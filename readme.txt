@@ -15,3 +15,4 @@ change 8
 test jgit
 test git with change
 change 11
+change 12
